@@ -1,0 +1,13 @@
+h1  {
+  filter: invert(100%);
+  margin-top: 100px;
+  text-align: center;
+  font-size: 72px;
+}
+.body{
+  background-image: linear-gradient(135deg, cornflowerblue, rgb(240, 240, 255)),url("confetti.gif");
+  height: 643px;
+}
+
+.png-over{position:absolute; top:0; left:0;
+width:100%}
